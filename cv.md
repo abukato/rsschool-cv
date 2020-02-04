@@ -6,3 +6,21 @@
 * *Mobile:* +375 (29) 7785419
 * *Telegram:* @arturbukato
 * *Email:* artur.bukato@gmail.com
+
+### **Skills:**
+* HTML5
+* CSS3, SCSS
+* JavaScript (base)
+* Git
+* Photoshop
+
+### **Education:**
+* **2012-2016**  
+*Department of Information Systems and Technology IIT BSUIR,*  
+*Information Technologies in Automated Systems,*  
+*Graduate as an Engineer Of Information Technology*
+
+* **2007-2012**  
+*Minsk Radioengineering College,*  
+*Electronic Computing Means,*  
+*Granted qualification – Electronics Technician.*

@@ -23,4 +23,16 @@
 * **2007-2012**  
 *Minsk Radioengineering College,*  
 *Electronic Computing Means,*  
-*Granted qualification – Electronics Technician.*
+*Granted qualification – Electronics Technician.*  
+### **Languages:**  
+* Russian - native speaker
+* Belarussian - native speaker
+* English - elementary *(i am working on it)*  
+
+### **Career:**  
+* **2016 to present**  
+*VDS Group*,  
+*Foreman*  
+
+*Mobile:* +375 (29) 7785419 || *Telegram:* @arturbukato ||
+*Email:* artur.bukato@gmail.com

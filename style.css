@@ -1,0 +1,79 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  max-width: 1024px;
+  width: 90%;
+  margin: 0 auto;
+}
+
+section {
+  margin-bottom: 16px;
+  border-bottom: 1px solid #cccccc;
+}
+
+header {
+  margin-bottom: 30px;
+  text-align: center;
+  color: #cccccc;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+  margin: 0 auto;
+  border-radius: 50%;  
+}
+
+h1 {
+  font-size: 16px;
+}
+
+h2 {
+  font-size: 18px;
+}
+
+ul {
+  padding: 20px;
+}
+
+li {
+  list-style-type: square;
+}
+
+.personal-data {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+  font-size: 1.2em;
+  border-bottom: none;
+}
+
+.personal-data_info li {
+  margin-bottom: 10px;
+  list-style-type: none;
+  border-bottom: 1px solid #cccccc;
+}
+
+.code-exemples {
+  padding-bottom: 10px;
+}
+
+.education {
+  margin-bottom: 10px;
+}
+
+.education_year {
+  margin-right: 10px;
+}
+
+footer {
+  padding-bottom: 20px;
+  text-align: center;
+}

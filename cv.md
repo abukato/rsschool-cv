@@ -24,6 +24,7 @@
 *Minsk Radioengineering College,*  
 *Electronic Computing Means,*  
 *Granted qualification – Electronics Technician.*  
+
 ### **Languages:**  
 * Russian - native speaker
 * Belarussian - native speaker
